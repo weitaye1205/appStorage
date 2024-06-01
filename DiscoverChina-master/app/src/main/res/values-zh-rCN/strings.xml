@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">发现中国</string>
+    <string name="related_photo_not_found">未找到相关照片</string>
+    <string name="search_for_ideas">搜索创意</string>
+    <string name="saved_pins">已保存的收藏</string>
+    <string name="cities">城市</string>
+    <string name="cuisine">美食</string>
+    <string name="festivals">节日</string>
+    <string name="kungfu">功夫</string>
+    <string name="save">保存</string>
+    <string name="description">描述</string>
+    <string name="followers">关注者</string>
+    <string name="no_saved_pins">无已保存的收藏</string>
+    <string name="more_like_this">更多类似内容</string>
+
+</resources>
